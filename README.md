@@ -1,4 +1,4 @@
-# C-LEARNING-APP.
+# C++ -LEARNING-APP.
 A simple C++ learning project
 # C++ Learning App
 
